@@ -1,0 +1,14 @@
+c:\Users\olawr\Documents\Zaliczenie 2 semestr\bin\Debug\net8.0\Zaliczenie 2 semestr.exe
+c:\Users\olawr\Documents\Zaliczenie 2 semestr\bin\Debug\net8.0\Zaliczenie 2 semestr.deps.json
+c:\Users\olawr\Documents\Zaliczenie 2 semestr\bin\Debug\net8.0\Zaliczenie 2 semestr.runtimeconfig.json
+c:\Users\olawr\Documents\Zaliczenie 2 semestr\bin\Debug\net8.0\Zaliczenie 2 semestr.dll
+c:\Users\olawr\Documents\Zaliczenie 2 semestr\bin\Debug\net8.0\Zaliczenie 2 semestr.pdb
+c:\Users\olawr\Documents\Zaliczenie 2 semestr\obj\Debug\net8.0\Zaliczenie 2 semestr.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\olawr\Documents\Zaliczenie 2 semestr\obj\Debug\net8.0\Zaliczenie 2 semestr.AssemblyInfoInputs.cache
+c:\Users\olawr\Documents\Zaliczenie 2 semestr\obj\Debug\net8.0\Zaliczenie 2 semestr.AssemblyInfo.cs
+c:\Users\olawr\Documents\Zaliczenie 2 semestr\obj\Debug\net8.0\Zaliczenie 2 semestr.csproj.CoreCompileInputs.cache
+c:\Users\olawr\Documents\Zaliczenie 2 semestr\obj\Debug\net8.0\Zaliczenie 2 semestr.dll
+c:\Users\olawr\Documents\Zaliczenie 2 semestr\obj\Debug\net8.0\refint\Zaliczenie 2 semestr.dll
+c:\Users\olawr\Documents\Zaliczenie 2 semestr\obj\Debug\net8.0\Zaliczenie 2 semestr.pdb
+c:\Users\olawr\Documents\Zaliczenie 2 semestr\obj\Debug\net8.0\Zaliczenie 2 semestr.genruntimeconfig.cache
+c:\Users\olawr\Documents\Zaliczenie 2 semestr\obj\Debug\net8.0\ref\Zaliczenie 2 semestr.dll
